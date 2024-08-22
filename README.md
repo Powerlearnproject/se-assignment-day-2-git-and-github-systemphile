@@ -26,7 +26,8 @@ Initialize with README: Yes or no?
 Add a .gitignore: Helps in ignoring unnecessary files.
 Choose a License: Defines how others can use your code.
 
-![Create your first github repository](https://youtu.be/-RZ03WHqkaY?t=23)
+Create your first github repository
+<video src="https://youtu.be/-RZ03WHqkaY?t=23" width="320" height="240" controls></video>
    
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
 
@@ -45,7 +46,8 @@ Contribution to Collaboration:
 Guidance: Helps newcomers understand the project.
 Standardization: Ensures everyone follows the same rules.
 
-![How to write a USEFUL README](https://www.youtube.com/watch?v=E6NO0rgFub4)
+How to write a USEFUL README
+<video src="https://www.youtube.com/watch?v=E6NO0rgFub4" width="320" height="240" controls></video>
 
 ## Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
 
@@ -82,7 +84,8 @@ Why Commits Matter:
 Tracking: Keeps a history of changes.
 Collaboration: Helps team members see who made what changes and why.
 
-![How to git commit](https://www.youtube.com/watch?v=9DHjfDuXMGA)
+How to git commit
+<video src="https://www.youtube.com/watch?v=9DHjfDuXMGA" width="320" height="240" controls></video>
 
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
 
